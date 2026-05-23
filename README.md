@@ -1,5 +1,13 @@
 # Jobs-Portal-Next-JS
 Jobs Portal using Next JS
+
+<img width="692" height="738" alt="image" src="https://github.com/user-attachments/assets/9b8dcc23-e0f2-451b-a7e3-2f63ee4b6f0b" />
+
+<img width="764" height="709" alt="image" src="https://github.com/user-attachments/assets/de804137-6cf7-4cda-ac63-4a97929243e4" />
+
+<img width="870" height="770" alt="image" src="https://github.com/user-attachments/assets/6d2f427b-d1b8-4baf-ab58-eae4c67744f3" />
+
+
 <img width="1912" height="883" alt="image" src="https://github.com/user-attachments/assets/ca717696-439e-41a7-a6b0-1756454cc023" />
 
 <img width="1919" height="878" alt="image" src="https://github.com/user-attachments/assets/eb514f57-64c7-42fe-ab8c-7c77ba9734ff" />
@@ -15,5 +23,8 @@ Jobs Portal using Next JS
 <img width="1919" height="858" alt="image" src="https://github.com/user-attachments/assets/eb8042f2-c185-4ef4-8598-ed655974739f" />
 
 <img width="1919" height="811" alt="image" src="https://github.com/user-attachments/assets/b511e131-1425-4e68-97d3-04fd40a1d9f3" />
+
+<img width="1915" height="846" alt="image" src="https://github.com/user-attachments/assets/4be83350-4d26-4114-a241-1a2534bc416f" />
+
 
 <img width="1919" height="795" alt="image" src="https://github.com/user-attachments/assets/4e41da4e-49b0-4623-9ff1-e92563cf1e9a" />
